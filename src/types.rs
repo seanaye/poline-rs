@@ -1,1 +1,1 @@
-pub type Transformer = fn(f32, bool) -> f32;
+pub type Transformer = fn(f64, bool) -> f64;
